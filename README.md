@@ -30,4 +30,5 @@ app.config['MYSQL_DB'] = 'e7posto
 ```
 
 Lembre-se de antes criar o banco e as tabelas. O comando SQL está no arquivo **database.txt**
+
 Após tudo configurado basta rodar o arquivo **'main.py'** e acessar seu localhost na porta 5000
