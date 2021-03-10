@@ -4,9 +4,9 @@
 
 
 Este projeto utiliza **Python 3.7.6** e as seguintes pacotes:
--Flask         1.1.2
--Flask-Bcrypt  0.7.1
--Flask-MySQLdb 0.2.0
+- Flask         1.1.2
+- Flask-Bcrypt  0.7.1
+- Flask-MySQLdb 0.2.0
 
 Para instalar os pacotes utilizando o pip:
 ```
