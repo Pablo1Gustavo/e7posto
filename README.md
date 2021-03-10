@@ -1,6 +1,6 @@
 # E7Posto
-#### Um pequeno e simples sistema feito em **Flask** para comprar,usar e gerenciar vouchers de um posto de gasolina.
-#### Feito em 2021 para a disciplina **Projeto de Desenvolvimento de Software**
+>#### Um pequeno e simples sistema feito em **Flask** para comprar,usar e gerenciar vouchers de um posto de gasolina.
+>#### Feito em 2021 para a disciplina **Projeto de Desenvolvimento de Software**
 
 
 Este projeto utiliza **Python 3.7.6** e as seguintes pacotes:
